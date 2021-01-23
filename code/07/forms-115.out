@@ -1,0 +1,7 @@
+<select name="main_dish[]" multiple><option value="cuke" selected>데친 해삼</option>
+<option value="stomach">순대</option>
+<option value="tripe">와인 소스 양대창</option>
+<option value="taro" selected>돼지고기 토란국</option>
+<option value="giblets">곱창 소금 구이</option>
+<option value="abalone">전복 호박 볶음</option>
+</select>

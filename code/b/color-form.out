@@ -1,0 +1,12 @@
+<form method="POST" action="{{d}}color-form.php">
+<table>
+        <tr>
+        <td>마음에 드는 색상을 고르세요:</td>
+        <td><select name="color"><option value="a">b</option><option value="c">d</option></select></td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center">
+            <input name="set" value="색상 설정" type="submit" /></td>
+    </tr>
+</table>
+</form>

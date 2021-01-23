@@ -1,0 +1,22 @@
+<form method="POST" action="{{!}}">
+<table>
+    
+    <tr>
+        <td>메뉴 이름:</td>
+        <td><input name="dish_name" type="text" /></td>
+    </tr>
+    <tr>
+        <td>가격:</td>
+        <td><input name="price" type="text" value="5.00" /></td>
+    </tr>
+
+    <tr>
+        <td>맵기:</td>
+        <td><input name="is_spicy" value="yes" type="checkbox" /> Yes</td>
+    </tr>
+
+    <tr><td colspan="2" align="center">
+        <input name="save" value="주문" type="submit" />    </td></tr>
+
+</table>
+</form>

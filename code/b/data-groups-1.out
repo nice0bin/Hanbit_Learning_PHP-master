@@ -1,0 +1,14 @@
+<table>
+<tr><th>도시</th><th>인구</th></tr>
+<tr><td>Suwon, GG</td><td>1194313</td></tr>
+<tr><td>Changwon, GN</td><td>1059241</td></tr>
+<tr><td>Goyang, GG</td><td>990073</td></tr>
+<tr><td>Yongin, GG</td><td>971327</td></tr>
+<tr><td>Cheongju, CB</td><td>833276</td></tr>
+<tr><td>Jeonju, JB</td><td>658172</td></tr>
+<tr><td>Cheonan, CN</td><td>629062</td></tr>
+<tr><td>Gimhae, GN</td><td>534124</td></tr>
+<tr><td>Pohang, GB</td><td>511804</td></tr>
+<tr><td>Jinju, GN</td><td>349788</td></tr>
+<tr><td>합계</td><td>7731180</td></tr>
+</table>

@@ -1,0 +1,16 @@
+strtolower()을 사용할 때: 
+   please stop shouting.
+   venligst stoppe råben.
+   hãy dừng la hét.
+mb_strtolower()을 사용할 때: 
+   please stop shouting.
+   venligst stoppe råben.
+   hãy dừng la hét.
+strtoupper()을 사용할 때: 
+   PLEASE STOP SHOUTING.
+   VENLIGST STOPPE RåBEN.
+   HãY DừNG LA HéT.
+mb_strtoupper()을 사용할 때: 
+   PLEASE STOP SHOUTING.
+   VENLIGST STOPPE RÅBEN.
+   HÃY DỪNG LA HÉT.

@@ -1,0 +1,1 @@
+데이터베이스에 접속할 수 없습니다: SQLSTATE[HY000] [1045] Access denied for user 'penguin'@'client.example.com' (using password: YES)

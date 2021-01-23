@@ -1,0 +1,8 @@
+<?php
+$first_name = "È«±æµ¿';
+if ($logged_in) {
+    print "¾È³çÇÏ¼¼¿ä, $first_name ´Ô";
+} else {
+    print "¹Ý°©½À´Ï´Ù, ¹æ¹®ÀÚ´Ô.";
+}
+?>

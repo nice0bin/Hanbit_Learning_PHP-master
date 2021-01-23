@@ -1,0 +1,1 @@
+\Tiny\Fruit::munch("¹Ù³ª³ª");

@@ -1,0 +1,3 @@
+@오류 #6
+이런! cURL 오류입니다: Couldn't resolve host 'api.example.com'
+접속에 소요된 시간은 .+ 초 입니다.@

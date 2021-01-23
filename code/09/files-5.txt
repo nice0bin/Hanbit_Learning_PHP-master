@@ -1,0 +1,1 @@
+dishes.txt 파일을 열 수 없습니다: failed to open stream: Permission denied

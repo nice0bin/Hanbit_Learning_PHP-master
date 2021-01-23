@@ -1,0 +1,5 @@
+<form method="POST" action="{{!}}">
+이름: <input type="text" name="my_name">
+<br>
+<input type="submit" value="인사">
+</form>
